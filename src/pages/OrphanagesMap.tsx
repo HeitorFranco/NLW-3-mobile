@@ -56,8 +56,8 @@ export default function OrphanagesMap() {
             }}
             icon={mapMarker}
             coordinate={{
-              latitude: orphanage.latitude,
-              longitude: orphanage.longitude,
+              latitude: Number(orphanage.latitude),
+              longitude: Number(orphanage.longitude),
             }}
           >
             <Callout
