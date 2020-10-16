@@ -1,8 +1,7 @@
 import axios from "axios";
-import API_URL from "../../variaveis";
 
 const api = axios.create({
-  baseURL: API_URL,
+  baseURL: "https://happy-backend-heitormaf.herokuapp.com/",
 });
 
 export default api;

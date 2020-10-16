@@ -1262,7 +1262,7 @@
     react-is "^16.13.0"
     use-subscription "^1.4.0"
 
-"@react-navigation/native@^5.7.6":
+"@react-navigation/native@^5.7.5":
   version "5.7.6"
   resolved "https://registry.yarnpkg.com/@react-navigation/native/-/native-5.7.6.tgz#47546c512488d0e9c343219af635e1a44881761d"
   integrity sha512-u+o9Ifs4//Ah6UczXiaAV+hiWPL0NyTbErj5WayeQUd6K5IIbA1UwumRVWs2Xp8q/4Q9h6FpPHUcKOyiTxhaqA==
@@ -1277,7 +1277,7 @@
   dependencies:
     nanoid "^3.1.12"
 
-"@react-navigation/stack@^5.9.3":
+"@react-navigation/stack@^5.9.2":
   version "5.9.3"
   resolved "https://registry.yarnpkg.com/@react-navigation/stack/-/stack-5.9.3.tgz#c12cbd7cc8436e3995aa291d7617c5b8f7a950ea"
   integrity sha512-/CJ5Rsrc9bMI20dD8oC/QSZHARMFuUv8DeoiYE7R2N0M44cFupF1CrzaZBBC/S4Zi1ahZ0A+Hj/gAzAEQrNTvA==
@@ -1321,11 +1321,6 @@
   integrity sha512-ykkPQ+5nFknnlU6lDd947WbQ6TE3NNzbQAkInC2EKY1qeYdTKp7onFusmYZb+ityzx2YviqT6BXSu+LyWWJwcA==
   dependencies:
     "@types/react" "*"
-
-"@types/react-native-dotenv@^0.2.0":
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/@types/react-native-dotenv/-/react-native-dotenv-0.2.0.tgz#32c58422a422c1adf68acce363ed791314d5a8e7"
-  integrity sha512-ZxX+dU/yoQc0jTk+/NWttkiuXceJyN5FpOSqDl0WynN5GDzxwH7OMruQ47qcY8llo2RD3irjvzJ9BwC8gDiq0A==
 
 "@types/react-native@~0.63.2":
   version "0.63.25"
@@ -2290,11 +2285,6 @@ destroy@~1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/destroy/-/destroy-1.0.4.tgz#978857442c44749e4206613e37946205826abd80"
   integrity sha1-l4hXRCxEdJ5CBmE+N5RiBYJqvYA=
-
-dotenv@^8.0.0:
-  version "8.2.0"
-  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-8.2.0.tgz#97e619259ada750eea3e4ea3e26bceea5424b16a"
-  integrity sha512-8sJ78ElpbDJBHNeBzUbUVLsqKdccaa/BXF1uPTw3GrvQTBgrQrtObr2mUrE38vzYd8cEv+m/JBfDLioYcfXoaw==
 
 ee-first@1.1.1:
   version "1.1.1"
@@ -4622,13 +4612,6 @@ react-is@^16.12.0, react-is@^16.13.0, react-is@^16.8.1, react-is@^16.8.4:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
-
-react-native-dotenv@^2.4.1:
-  version "2.4.1"
-  resolved "https://registry.yarnpkg.com/react-native-dotenv/-/react-native-dotenv-2.4.1.tgz#f15fa3e4a8821a92a4297ca0ef416d84409d6a32"
-  integrity sha512-pt+769G395XNPiKtpLDXZC0+yCpl+DXyf7Qua3hTYKX/Kw/xA1heT5NWGSWvWIgYZ8b8mE1OjZYWctmIGIlAHg==
-  dependencies:
-    dotenv "^8.0.0"
 
 react-native-gesture-handler@~1.7.0:
   version "1.7.0"
